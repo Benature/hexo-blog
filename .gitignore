@@ -9,4 +9,5 @@ public/
 themes/
 !themes/hexo-theme-next/
 source/
-# package-lock.json
+package-lock.json
+package.json
